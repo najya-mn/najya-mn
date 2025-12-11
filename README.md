@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**najya-mn/najya-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Najya, a CS graduate with an honors in Multimedia Computing.
+
+Currently I'm focused on learning more about web development.
+
+
+
+
+
+You can reach me by email: najya.job@pm.me
+
+
+
+
+
+Fun Facts:
+
+* I draw and animate sometimes as a hobby, which you can see at my [creative works](https://rumirta.me) website.
