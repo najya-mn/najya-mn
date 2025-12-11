@@ -18,4 +18,4 @@ You can reach me by email: najya.job@pm.me
 
 Fun Facts:
 
-* I draw and animate sometimes as a hobby, which you can see at my [creative works](https://rumirta.me) website.
+* I draw and animate sometimes as a hobby, which you can see at my [creative works website](https://rumirta.me).
