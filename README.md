@@ -1,21 +1,22 @@
-## Hi there 👋
+# Najya Mohd Najib
+**Multimedia Computing Graduate | Web Developer**
 
+I am a developer with a background in Multimedia Computing, focused on building responsive and functional web applications. I enjoy the process of combining clean code with effective design to create better user experiences.
 
+### Technical Skills
+| Category | Tools |
+| :--- | :--- |
+| **Web & Frontend** | HTML/CSS, JavaScript, Vue 3, Bootstrap 5, PWA |
+| **Backend & Database** | PHP, MySQL, MongoDB, Firebase |
+| **Design & Prototyping** | Figma, Justinmind, Adobe Creative Suite |
+| **Tools & Analytics** | Git, Google Data Studio, Python (Pandas/Regex) |
 
-I'm Najya, a CS graduate with an honors in Multimedia Computing.
+### Current Learning & Projects
+- **#seKODlah TecHive 2026:** Currently participating in a tech bootcamp to strengthen my web development fundamentals.
+- **Data Exploration:** Applying Python and Regex for basic text processing and sentiment analysis projects.
+- **Creative Work:** I maintain a portfolio of illustration and animation work at [rumirta.me](https://rumirta.me).
 
-Currently I'm focused on learning more about web development.
-
-
-
-
-
-You can reach me by email: najya.job@pm.me
-
-
-
-
-
-Fun Facts:
-
-* I draw and animate sometimes as a hobby, which you can see at my [creative works website](https://rumirta.me).
+### Contact Information
+- **Email:** [najya.job@pm.me](mailto:najya.job@pm.me)
+- **LinkedIn:** [najya-mohd-najib](https://www.linkedin.com/in/najya-mohd-najib/)
+- **Website:** [najya.me](https://najya.me)
